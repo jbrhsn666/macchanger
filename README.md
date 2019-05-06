@@ -5,7 +5,9 @@ It is a simple macchanger program written in python. You can use this program to
 
 # - USAGE -
 python macchanger.py -i [Interfacename] -m [New Macaddress] 
+                               
 python macchanger.py  --> This will enter prompt mode
+                          
 ** Please make sure your interfacename is correct and  New MAC must be in the form ff:ff:ff:ff:ff:ff
 
 # - WARNING -
